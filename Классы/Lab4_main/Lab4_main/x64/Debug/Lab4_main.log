@@ -1,0 +1,5 @@
+﻿  Date.cpp
+C:\Users\Ug\Desktop\Lab4_main\Date.cpp(81,14): error C2084: функция "std::string Date::operator >(Date &)" уже имеет текст реализации
+      C:\Users\Ug\Desktop\Lab4_main\Date.cpp(66,14):
+      см. предыдущее определение "Date::operator >"
+  
